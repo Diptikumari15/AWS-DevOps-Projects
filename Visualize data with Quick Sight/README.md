@@ -1,8 +1,7 @@
-:
 
-📚 Netflix Data Visualization using Amazon QuickSight
+# 📚 Netflix Data Visualization using Amazon QuickSight
 
-📂 Project Overview
+## 📂 Project Overview
 
 This project demonstrates how to visualize a Netflix dataset using AWS services:
 
