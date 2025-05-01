@@ -11,7 +11,7 @@ Connected S3 data to Amazon QuickSight for visualization.
 
 Generated a PDF report showcasing insights from the dataset.
 
-🛠️ Tools and Technologies
+### 🛠️ Tools and Technologies
 
 Amazon S3
 
@@ -21,7 +21,7 @@ CSV and JSON Files
 
 AWS Free Tier
 
-🚀 Steps Followed
+### 🚀 Steps Followed
 
 Created an S3 bucket and uploaded the dataset and manifest file.
 
@@ -35,7 +35,7 @@ Exported the final visualizations to a PDF report.
 
 Deleted the S3 bucket after project completion to avoid charges.
 
-📸 Project Files
+### 📸 Project Files
 
 screenshots/ → Deployment and Visualization screenshots
 
@@ -45,7 +45,7 @@ netflix_titles.csv → Netflix dataset
 
 manifest.json → Manifest file for S3 and QuickSight connection
 
-💡 Learnings
+### 💡 Learnings
 
 How to connect Amazon S3 data to QuickSight using a manifest file
 
